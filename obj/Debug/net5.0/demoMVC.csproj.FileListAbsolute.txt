@@ -172,3 +172,8 @@ C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtm
 C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\students\Create.cshtml.g.cs
+C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\students\Delete.cshtml.g.cs
+C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\students\Details.cshtml.g.cs
+C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\students\Edit.cshtml.g.cs
+C:\Users\Admin\NetCore1\demoMVC\obj\Debug\net5.0\Razor\Views\students\Index.cshtml.g.cs
